@@ -18,11 +18,11 @@ Here's how we implemented the key features:
 Take a look at some screenshots of the app in action:
 
 ### HomeScreen
-![HomeScreen](![IMG-20240712-WA0042](https://github.com/user-attachments/assets/b8fe0ddc-c33b-47d0-b171-7653269497e3)
+![HomeScreen](![WhatsApp Image 2024-07-12 at 19 07 35_90bb47f4](https://github.com/user-attachments/assets/41182a76-0a56-4a05-a74c-c9f58d49e67d)
 )
 
 ### ProductDetailScreen
-![ProductDetailScreen](![IMG-20240712-WA0040](https://github.com/user-attachments/assets/cec721e3-2950-4767-81ab-e91a5d2a724f)
+![ProductDetailScreen](![WhatsApp Image 2024-07-12 at 19 07 33_fd9da052](https://github.com/user-attachments/assets/707b7651-a7e7-4c03-989b-7e9a8d051b9e)
 )
 
 ### CartScreen
@@ -30,5 +30,5 @@ Take a look at some screenshots of the app in action:
 )
 
 ### Show Menu
-![Show Menu](![IMG-20240712-WA0041](https://github.com/user-attachments/assets/f4c43396-b21f-4a7d-a5ca-c138965624a8)
+![Show Menu](![WhatsApp Image 2024-07-12 at 19 07 34_e7c6e8b8](https://github.com/user-attachments/assets/d15cc325-75ff-414b-9cbe-2916a9c91d33)
 )
